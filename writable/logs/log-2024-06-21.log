@@ -1,0 +1,839 @@
+WARNING - 2024-06-21 01:03:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelHome is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-06-21 01:03:28 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 01:03:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 01:03:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 01:03:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 01:08:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 01:08:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 01:08:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 01:08:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 01:11:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelHome is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-06-21 01:12:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 01:12:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 01:13:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 01:13:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 01:13:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 01:13:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 01:15:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 01:15:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 01:15:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 01:15:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 01:16:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 01:16:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 01:17:03 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 01:17:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 01:19:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 01:19:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 01:19:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 01:19:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 01:21:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 01:21:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 01:23:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 01:23:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 01:25:30 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 01:25:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 01:26:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 01:26:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 01:26:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 01:26:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-21 01:26:58 --> ErrorException: Undefined array key "tenaga_medis"
+in APPPATH\Views\lokasi\v_editlokasi.php on line 32.
+ 1 APPPATH\Views\lokasi\v_editlokasi.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "tenaga_medis"', 'C:\\xampp\\htdocs\\ci-gis-rumahsakit\\app\\Views\\lokasi\\v_editlokasi.php', 32)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci-gis-rumahsakit\\app\\Views\\lokasi\\v_editlokasi.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('lokasi/v_editlokasi', [], true)
+ 5 APPPATH\Views\v_template.php(97): view('lokasi/v_editlokasi')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci-gis-rumahsakit\\app\\Views\\v_template.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('v_template', [], true)
+ 9 APPPATH\Controllers\Lokasi.php(166): view('v_template', [...])
+10 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Lokasi->editLokasi('23')
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-06-21 01:30:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 01:30:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 01:32:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-21 01:32:43 --> ErrorException: Undefined array key "id_lokasi"
+in APPPATH\Models\ModelLokasi.php on line 25.
+ 1 APPPATH\Models\ModelLokasi.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_lokasi"', 'C:\\xampp\\htdocs\\ci-gis-rumahsakit\\app\\Models\\ModelLokasi.php', 25)
+ 2 APPPATH\Controllers\Lokasi.php(285): App\Models\ModelLokasi->updateData([...])
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Lokasi->updateData('23')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-06-21 01:42:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 01:42:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 01:42:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 01:42:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 01:42:28 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 01:42:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 01:42:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 01:42:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 01:42:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-21 01:42:48 --> ErrorException: Undefined array key "id_lokasi"
+in APPPATH\Models\ModelLokasi.php on line 25.
+ 1 APPPATH\Models\ModelLokasi.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_lokasi"', 'C:\\xampp\\htdocs\\ci-gis-rumahsakit\\app\\Models\\ModelLokasi.php', 25)
+ 2 APPPATH\Controllers\Lokasi.php(285): App\Models\ModelLokasi->updateData([...])
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Lokasi->updateData('23')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-06-21 01:51:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelHome is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-06-21 01:51:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 01:51:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 01:52:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 01:52:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 01:52:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 01:52:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 01:52:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 01:52:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 01:52:56 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 01:52:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 01:53:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 01:53:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 01:53:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 01:53:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 01:53:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-06-21 01:55:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 01:55:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 01:57:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 01:57:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 01:57:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 01:57:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 01:57:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-06-21 01:58:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelHome is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-06-21 02:00:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelHome is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-06-21 02:01:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelHome is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-06-21 02:01:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelHome is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-06-21 02:02:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelHome is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-06-21 02:02:30 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 02:02:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 02:05:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 02:05:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 02:06:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 02:06:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 02:07:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 02:07:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 02:08:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 02:08:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 02:08:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 02:08:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 02:09:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 02:09:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 02:11:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 02:11:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 02:12:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 02:12:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 02:12:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 02:12:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 02:13:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 02:13:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 02:16:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 02:16:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 02:16:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 02:16:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 02:17:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 02:17:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 02:17:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 02:17:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 02:18:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 02:18:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 02:18:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 02:18:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 02:18:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 02:18:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 02:19:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 02:19:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 02:19:44 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 02:19:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 02:21:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 02:21:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 02:22:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 02:22:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 02:25:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 02:25:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 02:26:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 02:26:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 02:26:03 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 02:26:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 02:29:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 02:29:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 02:30:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 02:30:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 02:31:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 02:31:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 02:31:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 02:31:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 02:32:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 02:32:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 02:32:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 02:32:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 04:19:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 04:19:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 04:22:03 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 04:22:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 04:22:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 04:22:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 04:22:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 04:22:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 04:22:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 04:22:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 04:22:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-06-21 04:22:44 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 04:22:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 04:22:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 04:22:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 04:25:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 04:25:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 04:25:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 04:25:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 04:28:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 04:28:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 04:28:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 04:28:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 04:30:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 04:30:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 04:30:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 04:30:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 04:32:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 04:32:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 04:32:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 04:32:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 04:34:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 04:34:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 04:34:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 04:34:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 04:37:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 04:37:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 04:37:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 04:37:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 04:39:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 04:39:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 04:39:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 04:39:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 04:41:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 04:41:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 04:41:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 04:41:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 04:43:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 04:43:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 04:43:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 04:43:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 04:43:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 04:43:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 04:45:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 04:45:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 04:47:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 04:47:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 04:47:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 04:47:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 04:50:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 04:50:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 04:50:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 04:50:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 04:52:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 04:52:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 04:52:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 04:52:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 04:52:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 04:52:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 04:53:56 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 04:53:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 04:55:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 04:55:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 04:55:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 04:55:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 04:56:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 04:56:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 04:56:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 04:56:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 04:58:15 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 04:58:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 04:58:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 04:58:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 05:01:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 05:01:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 05:01:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 05:01:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 05:03:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 05:03:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 05:03:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 05:03:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 05:04:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 05:04:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 05:04:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 05:04:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 05:05:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 05:05:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 05:05:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 05:05:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 05:05:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 05:05:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 05:05:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 05:05:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 05:06:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 05:06:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 05:06:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 05:06:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 05:06:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 05:06:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 05:06:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 05:06:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 05:06:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 05:06:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 05:06:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 05:06:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 05:06:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 05:06:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 05:06:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-21 05:06:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-21 05:07:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$ModelLokasi is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
